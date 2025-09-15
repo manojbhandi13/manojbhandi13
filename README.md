@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm MANOJ</h1>
 <h3 align="center">A passionate Tech Aspirant with special interests in Systems Programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojbhandi13&label=Profile%20views&color=0e75b6&style=flat" alt="manojbhandi13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojbhandi13" alt="manojbhandi13" /></a> </p>
 
 - 🌱 I’m currently learning **C Programming, Java, DSA**
 
