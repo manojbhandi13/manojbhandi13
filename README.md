@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently: JavaScript (DOM) → React
+  Currently: JavaScript (Events) → React
 </p>
 
 ### 🔨 What I'm Building
