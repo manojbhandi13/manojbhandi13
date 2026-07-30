@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently: JavaScript(Classes) → React
+  Currently: JavaScript(Async JS) → React
 </p>
 
 ### 🔨 What I'm Building
