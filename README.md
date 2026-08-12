@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently: JavaScript(Async JS) → React
+  Currently: CSS Grids
 </p>
 
 ### 🔨 What I'm Building
