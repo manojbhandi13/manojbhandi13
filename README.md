@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently: CSS Grids
+  Currently: POST method (fetch())
 </p>
 
 ### 🔨 What I'm Building
