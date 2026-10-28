@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently: POST method (fetch())
+  Currently: Building a Chrome Extension Project
 </p>
 
 ### 🔨 What I'm Building
